@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MobileOTP_Email_Password_Verification</string>
+    <string name="domain">"@gmail.com"</string>
+</resources>
